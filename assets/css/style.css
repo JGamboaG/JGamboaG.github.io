@@ -1,10 +1,19 @@
-.b-color {
-    background-color: #6699ff;
+.gray-5{
+    background-color: #dcdcde;
+}
+
+.gray-80{
+    background-color: #2c3338;
 }
 
 .img-top{
     height: 400px;
     width: auto;
+}
+
+.logo{
+    width: 30px;
+    height: auto;
 }
 
 
